@@ -1,0 +1,12 @@
+{
+		"MONUMENT_LIST":{
+			"REMIX": "Remixer!",
+			"REMIX_DESC": "Remix all your favorite mods and building parts.",
+			"CATEGORY_FLORA": "Flowers & Trees",
+			"CATEGORY_FURNITURE": "Furniture",
+			"CATEGORY_STORAGE": "Storage",
+			"CATEGORY_TOPIARY": "Topiary",
+			"CATEGORY_EDIBLES": "Herbs",
+			"CATEGORY_MAX": "Remix Max"
+		}
+}

@@ -1,0 +1,13 @@
+{
+	"Name": "Remixer!",
+	"Author": "GarranPlum",
+	"Description": "Remix parts from your favorite mods and the base game to create your own monuments without code! Built with GPS.",
+	"Version": "1.0.0",
+
+	"Dependencies":  [
+        {
+          "Id": "f3db0f23-5750-4bc9-9abb-f84931d42fdb",
+          "Name": "Barrel O'Fish"
+        }
+      ]
+}

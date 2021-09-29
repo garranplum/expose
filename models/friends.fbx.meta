@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="24b2f338-c81e-4cb1-9579-d3d7a236098b">
+	<meta id="842ad7e5-2a25-44d2-88b2-4126ce48ff7a" type="group" folder="true" name="Materials">
+		<meta id="c4dd7e5c-ceef-4562-8c36-96127082a387" name="pelo"/>
+		<meta id="d1d8e099-633f-42a9-8ae2-c086087a488f" name="g"/>
+		<meta id="fe5cc713-a24b-44bc-a6b7-785b5ca688ac" name="h"/>
+		<meta id="cb966948-3740-462a-b4ff-28915a85174f" name="y"/>
+		<meta id="c3bc821f-b65c-4d7e-bc84-035576d4bef8" name="r"/>
+		<meta id="defab2ed-47d6-42ba-ae6a-0a89d86d3b48" name="b"/>
+		<meta id="43ef0cab-e8fc-4c92-a9ff-4e0b251d4f77" name="x"/>
+		<meta id="78e3844f-86e1-4b95-a126-3aea0ee952ba" name="m"/>
+		<meta id="278cf769-3089-4bab-9cd3-426a4321fcbc" name="q"/>
+		<meta id="ed0beef5-dd20-4be6-a82a-69f3cbbbe180" name="a"/>
+		<meta id="b25ba174-a60d-4f2e-8aff-f8cd40b84c12" name="bianco"/>
+		<meta id="4f2497d5-4705-438e-83a0-3127ecd241a6" name="zampa"/>
+		<meta id="27c1edee-ed0c-42e3-a0a7-e5b4d8081893" name="CoonFur"/>
+	</meta>
+	<meta id="0286c5f5-8c68-4446-88cc-436b971e5fe6" type="group" folder="true" name="Meshes">
+		<meta id="06d372a8-2346-4ab7-91dd-31b94e8bc8fe" name="Collie_pelo"/>
+		<meta id="1533ad51-27c0-4648-a1c5-b27130766e25" name="Collie_g"/>
+		<meta id="c2365c18-e12c-4fe2-81fc-644cf44f5d2a" name="Collie_h"/>
+		<meta id="714c55a5-a5f5-4146-993c-3760d5bde458" name="Collie_y"/>
+		<meta id="2dd5b97f-116c-4e4a-85b4-867200f502bb" name="Collie_r"/>
+		<meta id="a5b6d23e-303e-4501-96d2-200a649f0068" name="Collie_b"/>
+		<meta id="c9d9427f-8b06-49c7-8895-e8f0061d083c" name="Collie_x"/>
+		<meta id="fd6e1068-112b-4317-ac99-9a11251ad1b1" name="Collie_m"/>
+		<meta id="dabcd02e-ac7d-45e5-88c8-13081ea30ecb" name="Collie_q"/>
+		<meta id="bba8aee9-0bed-4b6a-9b72-a6cf854fcd3f" name="Collie_a"/>
+		<meta id="6c520903-41a7-4c67-a373-01f5c8830647" name="Collie_bianco"/>
+		<meta id="e6430393-429f-4456-9ff5-024e019dc63d" name="Collie_zampa"/>
+		<meta id="38bb6c69-7e53-4aee-bf68-f07da47009ba" name="Coon Cat_CoonFur"/>
+	</meta>
+	<meta id="0fa5d2c8-9f58-47d3-a63f-871518139abf" name="Prefab">
+		<meta id="faad1746-8902-4564-8149-ca479ad46aad" name="Collie_Dog_Part">
+			<meta id="8916547c-9259-49aa-a701-d84e95581c45" name="Collie">
+				<meta id="ee29137c-3fee-4f15-9a6f-3f8a7375413d" name="Collie_0"/>
+				<meta id="47d43890-ad2a-4c42-a197-7b60aba2fbc5" name="Collie_1"/>
+				<meta id="a08cbce4-9c0e-419e-97b6-78a8150cdf52" name="Collie_2"/>
+				<meta id="7a86ee23-e09a-4a9e-b951-b7cdb52a7e76" name="Collie_3"/>
+				<meta id="be81bc76-7f61-4d26-804e-ec32eb41a208" name="Collie_4"/>
+				<meta id="3a606b94-10ab-42de-81fe-9ba0a1ce790c" name="Collie_5"/>
+				<meta id="4f9e4382-bfb3-4594-a942-c2d59323e8fd" name="Collie_6"/>
+				<meta id="c00cf0d4-9ef7-453f-ad8e-e50bcaf6b224" name="Collie_7"/>
+				<meta id="ff815120-e1a5-465f-b6fc-cb50f13ab6a9" name="Collie_8"/>
+				<meta id="11f566be-3ac5-4c59-a9e6-7022ad6bb442" name="Collie_9"/>
+				<meta id="bfe3e882-3e11-4f0c-a4d4-ebab4ac41480" name="Collie_10"/>
+				<meta id="6904e167-8285-4b5b-804c-823c33264cde" name="Collie_11"/>
+			</meta>
+			<meta id="5fcb6b45-fb28-4119-a987-b3949a4d39a8" name="Attach_minor.003"/>
+		</meta>
+		<meta id="c8b2f9fa-2e98-466c-b879-d0488d3b9e5e" name="Coon_Cat_Part">
+			<meta id="97e9e2aa-ffce-4710-b982-c6b0c59ba460" name="Coon Cat"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="f031fddb73a740e66aebba5ebb357021"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Collie_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Collie_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Collie_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Collie_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Collie_4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Collie_5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Collie_6"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Collie_7"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Collie_8"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Collie_9"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Collie_10"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Collie_11"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Collie"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_minor.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Collie_Dog_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Coon Cat"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Coon_Cat_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="27c1edee-ed0c-42e3-a0a7-e5b4d8081893"/>
+			<MaterialName value="CoonFur"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ed0beef5-dd20-4be6-a82a-69f3cbbbe180"/>
+			<MaterialName value="a"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="defab2ed-47d6-42ba-ae6a-0a89d86d3b48"/>
+			<MaterialName value="b"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b25ba174-a60d-4f2e-8aff-f8cd40b84c12"/>
+			<MaterialName value="bianco"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d1d8e099-633f-42a9-8ae2-c086087a488f"/>
+			<MaterialName value="g"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fe5cc713-a24b-44bc-a6b7-785b5ca688ac"/>
+			<MaterialName value="h"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="78e3844f-86e1-4b95-a126-3aea0ee952ba"/>
+			<MaterialName value="m"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c4dd7e5c-ceef-4562-8c36-96127082a387"/>
+			<MaterialName value="pelo"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="278cf769-3089-4bab-9cd3-426a4321fcbc"/>
+			<MaterialName value="q"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c3bc821f-b65c-4d7e-bc84-035576d4bef8"/>
+			<MaterialName value="r"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="43ef0cab-e8fc-4c92-a9ff-4e0b251d4f77"/>
+			<MaterialName value="x"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="cb966948-3740-462a-b4ff-28915a85174f"/>
+			<MaterialName value="y"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4f2497d5-4705-438e-83a0-3127ecd241a6"/>
+			<MaterialName value="zampa"/>
+		</Item>
+	</MaterialList>
+</importer>
+
